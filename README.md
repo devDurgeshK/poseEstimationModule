@@ -94,4 +94,3 @@ if __name__ == '__main__':
 
 - Ensure that you have the required video file ('Videos/V2.mp4') in the specified location.
 - The script uses the `mediapipe` library for pose detection, so make sure it is installed (`pip install mediapipe`).
-```
