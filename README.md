@@ -1,6 +1,3 @@
-Certainly! Here's the explanation converted into a Markdown file:
-
-```markdown
 # Pose Detection with OpenCV and MediaPipe
 
 ## 1. Importing Libraries
